@@ -67,7 +67,7 @@ html_template = """
 </head>
 <body>
     <div class="container">
-        <h2>Instagram Message Sender</h2>
+        <h2> Anish Instagram Message Sender</h2>
 
         {% if error %}
         <div class="error">{{ error }}</div>
